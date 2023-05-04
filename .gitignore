@@ -1,0 +1,11 @@
+# output
+bin
+obj
+
+# libraries (terraria executables)
+Libraries/*
+
+# ide
+.idea
+.vs
+*.sln.DotSettings.user

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LWTML", "LWTML\LWTML.csproj", "{23A7CA7E-ED08-412E-99E4-6C5F621363D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A7CA7E-ED08-412E-99E4-6C5F621363D4}.Debug|x86.ActiveCfg = Debug|x86
+		{23A7CA7E-ED08-412E-99E4-6C5F621363D4}.Debug|x86.Build.0 = Debug|x86
+		{23A7CA7E-ED08-412E-99E4-6C5F621363D4}.Release|x86.ActiveCfg = Release|x86
+		{23A7CA7E-ED08-412E-99E4-6C5F621363D4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCAB6C3E-D10E-472E-BAF9-7EE565F11AE6}
+	EndGlobalSection
+EndGlobal
