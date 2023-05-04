@@ -9,3 +9,6 @@ Libraries/*
 .idea
 .vs
 *.sln.DotSettings.user
+
+# add back .gitkeep files
+!.gitkeep
